@@ -1,6 +1,6 @@
-# Welcome to MkDocs
+# Welcome to My Example Docs Project!
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Hopfully this is building the way I want it to.
 
 ## Commands
 
